@@ -39,11 +39,10 @@ so rather than guessing.
 **1,164 + 3,135 = 4,299 entries** across the two volumes. That is the complete set.
 
 **74 entries are marked deceased — but In Memoriam lists 72 people.** The gap is not an error.
-Two of the dead appear in both programmes, counted once as people and twice as entries.
-
-**There is no 2004 class.** 2004 was the transition year between the two programmes, and no
+Two of the dead appear in both programmes, counted once as people and twice as entries. There is no 2004 class.** 2004 was the transition year between the two programmes, and no
 roster for it was found. The arithmetic bears this out: eleven GLT class years plus twenty-two
 YGL class years account for every year covered, with 2004 absent from both.
+
 ---
 
 ## Method
